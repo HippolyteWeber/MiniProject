@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-function Product() {
-  return (
-    <>
-      <h1>HI</h1>
-    </>
-  );
-}
-=======
 
 
 [
@@ -72,4 +63,3 @@ function Product (name, price, image, description) {
 }
 
 export default Product;
->>>>>>> c15c38e8d35d506c84a47519506e990bde294dd5
