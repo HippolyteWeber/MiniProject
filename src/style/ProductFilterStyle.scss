@@ -1,15 +1,16 @@
+.mainBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10vh;
+}
+
 .filterBar {
   background-color: #014f86;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 10vh;
-  min-width: 208vh;
   border: solid 2px #a9d6e5;
-}
-.mainBar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
 }
