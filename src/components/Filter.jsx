@@ -1,4 +1,5 @@
-import "./FilterStyle.scss";
+import "../style/ProductFilterStyle.scss";
+// import Data from "./Data";
 function Filter() {
   return (
     <div className="buttonDisplay">
