@@ -8,7 +8,7 @@ function ProductCatalog () {
         <div>
     <h1>Notre catalogue</h1>
 
-<Product/>
+<Product name="" price="" image="" description=""/>
 <Product/>
 <Product/>
 <Product/>
