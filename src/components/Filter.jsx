@@ -1,4 +1,5 @@
-import "./FilterStyle.scss";
+import "../style/ProductFilterStyle.scss";
+
 function Filter() {
   return (
     <div className="buttonDisplay">

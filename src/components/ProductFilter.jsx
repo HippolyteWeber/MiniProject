@@ -1,4 +1,4 @@
-import "./ProductFilterStyle.scss";
+import "../style/ProductFilterStyle.scss";
 import Filter from "./Filter";
 function ProductFilter() {
   return (

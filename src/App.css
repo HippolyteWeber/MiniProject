@@ -1,0 +1,10 @@
+.backgroundApp {
+  display: flex;
+  flex-direction: column;
+}
+
+.productContainer {
+  display: flex;
+  width: 100%;
+  margin-left: 10em;
+}
