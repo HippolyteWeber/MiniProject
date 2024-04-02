@@ -1,7 +1,14 @@
 import "./App.css";
+import ProductDetails from "./components/ProductDetails";
+import ProductFilter from "./components/ProductFilter";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <ProductFilter />
+      <ProductDetails />
+    </>
+  );
 }
 
 export default App;
